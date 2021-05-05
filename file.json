@@ -11,5 +11,13 @@ create.folder "cool folder"
 
 setup async folder ("folder.name")
 
-return folder.name
+return ("folder.name")
 
+insane.setup = return async folder this.insane
+
+insane = print "INSANE"
+
+//fix.setup = setup.print "fixed!"//
+//then fix = async return print "fixed!"//
+
+return ("folder.name")
