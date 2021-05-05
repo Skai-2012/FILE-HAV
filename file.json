@@ -21,3 +21,14 @@ insane = print "INSANE"
 //then fix = async return print "fixed!"//
 
 return ("folder.name")
+
+add = "go back to monke"
+
+return "add"
+
+if message startswith "!" 
+return message.client.channel
+
+return "ok"
+
+//discord refrence//
